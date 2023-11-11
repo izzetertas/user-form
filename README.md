@@ -1,2 +1,2 @@
 # user-form
-Simple user form by using mongoDb, javascript, node, docker stack
+Simple user form by using nextJs, mongoDb, javascript, node, docker stack
